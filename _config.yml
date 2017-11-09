@@ -8,8 +8,7 @@
 # Site settings
 title: Horror Collection
 email: Maegriffin45@yahoo.com
-description: > # this means to ignore newlines until "baseurl:"
-A collection of my short horror stories
+description: > A collection of my short horror stories
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
